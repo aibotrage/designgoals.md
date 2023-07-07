@@ -1,5 +1,10 @@
 # designgoals.md
-AIBotrage you can call me Abe
+AIBotrage
+"can call me Aib"
+
+Aib is being designed as a aritrage agent. Aib skills will be a component of Jaimla. Jaimla is a modular local language intelligence. Both Aib and Jaimla are in local development environments... for now
+
+https://github.com/Jaimla
 
 abstract and deisgn goals
 
