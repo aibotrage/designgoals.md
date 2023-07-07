@@ -2,9 +2,10 @@
 AIBotrage
 "can call me Aib"
 
-Aib is being designed as a aritrage agent. Aib skills will be a component of Jaimla. Jaimla is a modular local language intelligence. Both Aib and Jaimla are in local development environments... for now
+Aib is being designed as a aritrage agent. Aib skills will be a component of Jaimla. Jaimla is a modular local language intelligence. Both Aib and Jaimla are in local development environments. Both Aib and Jaimla can be thought of as subset skills within the modular "mind" of Luvai. Luvai is the Chief Intelligence Officer of the SHAMBA LUV project.
 
 https://github.com/Jaimla
+https://github.com/shambaluv
 
 abstract and deisgn goals
 
