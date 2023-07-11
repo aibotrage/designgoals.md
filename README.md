@@ -3,7 +3,7 @@ AIBotrage
 "AI bot arbitrage"
 "you can can call me Abe"
 
-Abe is being designed as a aritrage agent. Aib skills will be a component of Jaimla. Jaimla is a modular local language intelligence. Both Abe and Jaimla are in local development environments. Both Abe and Jaimla can be thought of as subset skills within the modular "mind" of Luvai. Jaimla is the automated intelligence machine learning agent. Abe is the investment agent. Luvai is the Chief Intelligence Officer of the SHAMBA LUV project.
+Abe is being designed as a aritrage agent. Abe skills are fluid and can be called as a component of Jaimla. Jaimla is a modular local language intelligence agent. Both Abe and Jaimla are in local development environments. Abe and Jaimla provide subset skills within the modular "mind" of Luvai. Jaimla is the automated intelligence machine learning agent. Abe is the investment agent. Luvai is the Chief Intelligence Officer of the SHAMBA LUV project.
 
 https://github.com/Jaimla
 https://github.com/shambaluv
